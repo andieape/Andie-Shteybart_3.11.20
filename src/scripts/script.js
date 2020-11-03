@@ -1,7 +1,7 @@
 
 // add custom js below
 const Handlebars = require("handlebars");
-const baseUrl = 'http://my-json-server.typicode.com/moviedb-tech/movies/list/';
+const baseUrl = 'https://my-json-server.typicode.com/moviedb-tech/movies/list/';
 
 var moviesBuffer = new Array();
 var favArray = new Array();
